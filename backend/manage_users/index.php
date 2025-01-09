@@ -161,6 +161,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </table>
             </div>
         </div>
+        <a href="../admin.php" class="btn btn-primary">Kembali</a>
     </div>
 
     <!-- Modal Edit User -->

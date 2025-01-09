@@ -202,6 +202,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
             </div>
         </div>
+        <a href="../admin.php" class="btn btn-primary">Kembali</a>
     </div>
 
     <!-- Footer -->

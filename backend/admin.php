@@ -96,14 +96,6 @@ if(!isset($_SESSION["login"])){
                     </div>
                 </a>
             </div>
-            <!-- Kelola Akun -->
-            <div class="col-md-6 mb-4">
-                <a href="manage_accounts/index.php" class="text-decoration-none">
-                    <div class="card dashboard-card">
-                        <span>Kelola Akun</span>
-                    </div>
-                </a>
-            </div>
             <!-- Kelola Project -->
             <div class="col-md-6 mb-4">
                 <a href="manage_projects/index.php" class="text-decoration-none">
